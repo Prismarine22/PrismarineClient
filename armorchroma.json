@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "renderGlint": true,
+  "glintIntensity": 0.75,
+  "renderBackground": true,
+  "compressBar": false,
+  "displayedArmorCap": 100,
+  "reverse": false
+}
